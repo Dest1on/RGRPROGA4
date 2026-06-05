@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+
+# .NET
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+packages/
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish artifacts
+publish/
+artifacts/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
